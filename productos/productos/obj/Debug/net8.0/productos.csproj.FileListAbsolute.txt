@@ -1,0 +1,14 @@
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\bin\Debug\net8.0\productos.exe
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\bin\Debug\net8.0\productos.deps.json
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\bin\Debug\net8.0\productos.runtimeconfig.json
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\bin\Debug\net8.0\productos.dll
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\bin\Debug\net8.0\productos.pdb
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.AssemblyInfoInputs.cache
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.AssemblyInfo.cs
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.csproj.CoreCompileInputs.cache
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.dll
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\refint\productos.dll
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.pdb
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\productos.genruntimeconfig.cache
+C:\Users\CHRIS\Desktop\parcial1-progra1-B\productos\productos\obj\Debug\net8.0\ref\productos.dll

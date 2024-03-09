@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "serie3 programa1/1.0.0": {
+        "runtime": {
+          "serie3 programa1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "serie3 programa1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
